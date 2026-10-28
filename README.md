@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Abdelhamid 👋
 
-<!--
-**AbdelhamidRb/AbdelhamidRb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master's student in **Big Data & Internet of Things (BDIoT)** at **ENSAM Casablanca**, focused on **Software Engineering, Data Science & Data Engineering**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack & Skills
+- **Software & Web Development:** Python, Java, PHP, JavaScript, C++, Spring Boot, Laravel, React, Vue.js, FastAPI, Node.js
+- **Data Engineering & Big Data:** Apache Spark, PySpark, Hadoop HDFS, Kafka, HBase, SQLite, MySQL, MongoDB
+- **Data Science & ML:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, OpenCV, MediaPipe
+- **DevOps & Tools:** Docker, Docker Compose, AWS (EC2, S3, VPC), Git, Linux (Ubuntu)
+
+---
+
+### 🚀 Featured Projects
+- **Conference Management Web Platform:** Full-stack academic conference management system built with Laravel, MySQL, React, Blade, and Tailwind CSS.
+- **DentalApp (DentaFlow):** Full-stack dental clinic management application featuring a 2D interactive odontogram and patient tracking (Laravel, Vue.js, MySQL).
+- **IoT & Computer Vision Control System:** Real-time gesture recognition system tracking hand joints via webcam and publishing commands via MQTT to an ESP32 simulator (OpenCV, MediaPipe, MQTT, Node-RED, ESP32).
+- **Predictive Maintenance Pipeline:** Real-time engine remaining useful life (RUL) scoring and alerting pipeline (PySpark, Spark Structured Streaming).
+
+---
+
+### 🌐 Get in Touch
+- **LinkedIn:** https://www.linkedin.com/in/rherib-abdelhamid-1748aa344
+- **Email:** hamidrherib@gmail.com
